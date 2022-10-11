@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/homework-03-image-finder/static/css/main.7acaea2f.css",
-    "main.js": "/homework-03-image-finder/static/js/main.d57bb14b.js",
+    "main.js": "/homework-03-image-finder/static/js/main.040a1d3b.js",
     "index.html": "/homework-03-image-finder/index.html",
     "main.7acaea2f.css.map": "/homework-03-image-finder/static/css/main.7acaea2f.css.map",
-    "main.d57bb14b.js.map": "/homework-03-image-finder/static/js/main.d57bb14b.js.map"
+    "main.040a1d3b.js.map": "/homework-03-image-finder/static/js/main.040a1d3b.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.d57bb14b.js"
+    "static/js/main.040a1d3b.js"
   ]
 }
